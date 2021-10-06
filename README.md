@@ -8,3 +8,5 @@ New line was added locally
 Another new line by smyglo33 user
 
 Adding correct e-mail
+
+Experimental commit - at local is smyglo, at global is smyglo33
